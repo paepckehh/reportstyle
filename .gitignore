@@ -21,3 +21,5 @@
 Makefile
 doc
 vendor
+reportstyle
+cmd/reportstyle/reportstyle
