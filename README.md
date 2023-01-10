@@ -1,4 +1,4 @@
-# Overview
+# OVERVIEW
 
 [paepche.de/reportstyle](https://paepcke.de/reportstyle)
 
@@ -16,3 +16,10 @@ Internal Package for uniform reporting across \*info packages.
 	- paepcke.de/tlsinfo
 	- ...
 
+# DOCS
+
+[pkg.go.dev/paepcke.de/reportstyle](https://pkg.go.dev/paepcke.de/reportstyle)
+
+# CONTRIBUTION
+
+Yes, Please! PRs Welcome! 
