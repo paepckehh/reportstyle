@@ -1,6 +1,6 @@
 # OVERVIEW
 
-[paepche.de/reportstyle](https://paepcke.de/reportstyle)
+[paepche.de/reportstyle](https://paepcke.de/reportstyle/)
 
 Internal Package for uniform reporting across \*info packages. 
 
