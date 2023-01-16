@@ -11,7 +11,7 @@ const (
 	Linefeed  = "\n"
 	Space     = " "
 	Empty     = ""
-	Seperator = " : "
+	Separator = " : "
 	Ok        = "[OK]"
 	Valid     = "[VALID]"
 	Fail      = "[FAIL]"
@@ -67,7 +67,7 @@ func StyleText() *Style {
 		Valid: Valid,
 		Fail:  Fail,
 		Alert: Alert,
-		L2:    Seperator,
+		L2:    Separator,
 		L3:    Linefeed,
 		LE:    Linefeed,
 	}
@@ -82,7 +82,7 @@ func StyleAnsi() *Style {
 		Fail:  AnsiRed + Fail + AnsiEnd,
 		Alert: AnsiRed + Alert + AnsiEnd,
 		L1:    AnsiYellow,
-		L2:    AnsiBlue + Seperator,
+		L2:    AnsiBlue + Separator,
 		L3:    AnsiBlue + Linefeed,
 		L4:    AnsiBlue + Linefeed,
 		LE:    AnsiEnd + Linefeed,
@@ -97,7 +97,7 @@ func StyleMarkdown() *Style {
 		Valid: Valid,
 		Fail:  Fail,
 		Alert: Alert,
-		L2:    Seperator,
+		L2:    Separator,
 		L3:    Linefeed,
 		LE:    Linefeed,
 	}
@@ -114,9 +114,9 @@ func StyleHTML() *Style {
 		Fail:     HtmlRed + Fail + HtmlEnd,
 		Alert:    HtmlRed + Alert + HtmlEnd,
 		L1:       "\t<li><span class=\"kwd\">",
-		L2:       "</span>" + Seperator + "<span class=\"str\">",
+		L2:       "</span>" + Separator + "<span class=\"str\">",
 		L3:       "</span><br>\n",
-		L4:       "</span>" + Seperator + "<span class=\"fun\">",
+		L4:       "</span>" + Separator + "<span class=\"fun\">",
 		LE:       "</span></li>\n",
 		PS:       "\n<div class=\"pr\" style=\"line-height:1.1\">\n",
 		PE:       "\n</div>\n",
