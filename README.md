@@ -1,7 +1,7 @@
 # OVERVIEW
 [![Go Reference](https://pkg.go.dev/badge/paepcke.de/reportstyle.svg)](https://pkg.go.dev/paepcke.de/reportstyle) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/reportstyle)](https://goreportcard.com/report/paepcke.de/reportstyle) [![Go Build](https://github.com/paepckehh/reportstyle/actions/workflows/golang.yml/badge.svg)](https://github.com/paepckehh/reportstyle/actions/workflows/golang.yml)
 
-[paepche.de/reportstyle](https://paepcke.de/reportstyle/)
+[paepcke.de/reportstyle](https://paepcke.de/reportstyle/)
 
 Internal Package for uniform reporting across \*info packages. 
 
