@@ -3,7 +3,7 @@
 
 [paepcke.de/reportstyle](https://paepcke.de/reportstyle/)
 
-Internal Package for uniform reporting across \*info packages. 
+Internal Package for uniform fast, small, dependency free reporting across \*info packages. 
 
 - enables uniform data reports look & feel for:
 	- plaintext
